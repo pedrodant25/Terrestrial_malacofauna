@@ -8,7 +8,7 @@ This repository contains the data required to replicate the results of Lima et a
 
 # Data
 
-Terrestrial_Malacofauna_Data.xlsx: Records of terrestrial mollusc sampling carried out in the city of Aracaju, Sergipe, Brazil. 
+Terrestrial_Malacofauna_Data: Records of terrestrial mollusc sampling carried out in the city of Aracaju, Sergipe, Brazil. 
 
 # Relevant columns:
 
