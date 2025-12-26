@@ -1,6 +1,6 @@
 # Diversity of terrestrial malacofauna, favourable habitats, and relationships with mollusc size in urban environments of Sergipe, Northeastern Brazil
 
-Pedro D. Lima, José L. J. Santos, Allan C. Gomes, Rachel P. P. Carvalho, André M. Alves, Camenas V. Barata, Quezia M. S. Araújo, Tiago S. Santos, Luciane M. S. Melo, Suzete R. Gomes, Victor F. S. Lima, José R. S. Silva
+Pedro D. Lima, José L. J. Santos, Allan C. Gomes, Rachel P. P. Carvalho, André M. Alves, Camenas V. Barata, Quezia M. S. Araújo, Tiago S. Santos, Luciane M. S. Melo, Suzete R. Gomes, Victor F. S. Lima and José R. S. Silva
 
 pedrodantas714@gmail.com
 
